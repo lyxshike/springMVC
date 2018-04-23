@@ -1,0 +1,5 @@
+package com.sxt.po;
+
+public class User {
+
+}
